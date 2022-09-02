@@ -1,2 +1,2 @@
 # Play-Store-App-Review-Analysis
-Analysing the data of play store app
+Analysing the data of play store app in this we will be loading the Google Store Apps data stored in csv using pandas which is a fast and powerful python library for data analysis and easy data manipulation in pandas DataFrame object. It is usually used for working with tabular data (e.g data in spreadsheet) in various formats such as CSV, Excel spreadsheets, HTML tables, JSON etc. We will then perform some data preparation and also cleaning on it.
